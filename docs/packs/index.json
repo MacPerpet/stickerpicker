@@ -1,7 +1,8 @@
 {
   "packs": [
     "HjortarFox.json",
-    "synthrevolution.json"
+    "synthrevolution.json",
+    "MacFavs1.json"
   ],
   "homeserver_url": "https://phenjara.de"
 }
