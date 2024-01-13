@@ -1,12 +1,13 @@
 import subprocess
 import shutil
 import os
+import os.path
 
 from . import __version__
 
 cmd_env = {
     "PATH": os.environ["PATH"],
-    "HOME": os.environ["HOME"],
+    "HOME": os.path.expanduser('~'),
     "LANG": "C",
     "LC_ALL": "C",
 }
