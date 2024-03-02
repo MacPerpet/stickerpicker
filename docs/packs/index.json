@@ -2,7 +2,15 @@
   "packs": [
     "HjortarFox.json",
     "synthrevolution.json",
-    "MacFavs1.json"
+    "MacFavs1.json",
+    "Bloombot.json",
+    "CeresSynth.json",
+    "alexsynth.json",
+    "Tytolis.json",
+    "Tych0theSynth.json",
+    "ObsidianSynth.json",
+    "Twinsi.json",
+    "RueSynth.json"
   ],
   "homeserver_url": "https://phenjara.de"
 }
